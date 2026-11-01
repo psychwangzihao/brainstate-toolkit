@@ -1,17 +1,11 @@
 # BrainState
 
-A resting-state fMRI toolkit for measuring brain state.
+A resting-state fMRI toolkit for measuring brain state: dynamic brain entropy is
+computed over sliding windows, clustered into recurrent states, and summarised by
+occupancy and dwell time.
 
-Dynamic brain entropy is computed over sliding windows, clustered with k-means into
-recurrent brain states, and each state is described by its occupancy and dwell
-time; the same measures then go to patient groups against matched controls.
+**Status** — in development; no release yet.
 
-**Status** — in development.
+**Data** — none included. Example data will be deposited separately and linked here.
 
-**Data** — no data is included. Example scans and derived state time series will be
-deposited separately (Zenodo/OSF) and linked from here.
-
-**Layout** — `src/` pipeline · `data/` pointers and checksums · `paper/` manuscript
-material.
-
-**Contact** — Zihao Wang, psychwangzihao@zju.edu.cn
+**Cite** — see `CITATION.cff`.

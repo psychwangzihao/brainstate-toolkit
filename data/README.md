@@ -1,8 +1,5 @@
 # data/
 
-Raw data does **not** live in this repository.
-
-- Deposit the raw/derived datasets on Zenodo or OSF (with a DOI) once ownership
-  and consent allow it; link them from the top-level README.
-- Keep here only: small example tables, the download script, and checksums.
-- `data/raw/` is git-ignored on purpose.
+Datasets are not stored in this repository. They are deposited on Zenodo/OSF with a
+DOI and linked from the top-level README; only small pointers and checksums belong
+here. `data/raw/` is git-ignored.
