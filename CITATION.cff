@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "BrainState: a resting-state fMRI toolkit for measuring brain states"
+authors:
+  - family-names: Wang
+    given-names: Zihao
+    orcid: "https://orcid.org/0009-0000-3877-3496"
+    affiliation: "Department of Psychology and Behavioral Sciences, Zhejiang University"
+version: 0.1.0
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/psychwangzihao/brainstate-toolkit"

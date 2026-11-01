@@ -1,0 +1,17 @@
+# raw / heavy data never belongs in git -- see data/README.md
+data/raw/
+*.nii
+*.nii.gz
+*.edf
+*.bdf
+*.vhdr
+*.set
+*.fif
+*.mat
+*.stl
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
